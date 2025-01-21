@@ -21,7 +21,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "HTML/CSS", "BootTrap5" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "HTML/CSS", "TypeScript" ]
     },
     {
       "name": "Toolsets/OS",
@@ -52,15 +52,15 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
+      "company": "KCC Service & Sustainability Learning Program",
       "position": "Web Developer",
-      "website": "",
+      "website": "https://kapiolaniserve.weebly.com/",
       "startDate": "2015-08-01",
       "endDate": "Present",
       "summary": "Head of online presence for Ka Leo",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Maintain, update, and oversee official Kapiolani Community College Service & Sustainability Learning Program website",
+        "Recieving and answering email to all the partnership in the program, help student decide to the right partner for the path"
       ]
     },
     {
@@ -105,7 +105,7 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
+      "title": "Phi Theta Kappa Honor Society",
       "date": "2013-Present",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
