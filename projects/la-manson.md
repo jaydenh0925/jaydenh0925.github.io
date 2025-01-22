@@ -12,7 +12,7 @@ labels:
 summary: "A project of branding a website that I worked with my team in hometown College."
 ---
 
-<img class="img-fluid" src="../img/La-masion-home-page.jpg">
+<img class="img-fluid" src="../img/La-mansion-home-page.jpg">
 
 La-Manson is a branding project that I create while learning Adobe Photoshop in Vietnam. The project helped me learn how to design a professional branding for the website.
 
@@ -22,9 +22,9 @@ In this project I gained experience with full-stack web application design and a
 
 Here is some example branding pictures use:
 
-<img class="img-fluid" src="../img/la-mason-branding-1.jpg">
-<img class="img-fluid" src="../img/la-mason-branding-2.jpg">
-<img class="img-fluid" src="../img/la-mason-branding-3.jpg">
+<img class="img-fluid" src="../img/la-manson-branding-1.jpg">
+<img class="img-fluid" src="../img/la-manson-branding-2.jpg">
+<img class="img-fluid" src="../img/la-manson-branding-3.jpg">
 
 
 //{% gist 9defa1fb3f4eb593ba5fa9eacedca960 %}
