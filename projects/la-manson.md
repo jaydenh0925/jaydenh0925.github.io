@@ -28,6 +28,3 @@ Here is some example branding pictures use:
 <img class="img-fluid" src="../img/la-manson-branding-4.jpg">
 <img class="img-fluid" src="../img/la-manson-social-posts.jpg">
 
-//{% gist 9defa1fb3f4eb593ba5fa9eacedca960 %}
- 
-//Source: <a href="https://github.com/theVacay/vacay">theVacay/vacay</a>
