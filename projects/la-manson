@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/La-mansion-home-page.jpg
+image: img/La-manson-logo.png
 title: "La-Manson Branding"
 date: 2021
 published: true
@@ -12,7 +12,7 @@ labels:
 summary: "A project of branding a website that I worked alone."
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+<img class="img-fluid" src="../img/La-masion-home-page.jpg">
 
 La-Manson is a branding project that I create while learning Adobe Photoshop in Vietnam. The project helped me learn how to design a professional branding for the website.
 
