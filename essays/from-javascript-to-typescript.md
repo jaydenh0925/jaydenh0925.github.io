@@ -18,7 +18,31 @@ In the realm of website development, JavaScript has long been recognized as a co
 
 Initially, I underestimated the power of TypeScript. JavaScript has been the dominant language for web development since its interception in 1990s enabling dynamic client interaction and server-side programming. It has been a critical component in advanced frameworks such as React, Angular, and Vue.js. JavaScript primary strength line is flexibility and powerful capabilities. JavaScript being a dynamically typed, JavaScript allows for rapid development and adption. However, this flexibility can sometimes result in errors and inconsistence in handling larger project.
 
+```cpp
+// JavaScript: No type definitions
+function greet(name, age) {
+  return `Hello, my name is ${name} and I am ${age} years old.`;
+}
+
+// Using the function
+const message = greet("Alice", 30);
+console.log(message);
+
+```
+
 In constrast, TypeScript is a statically typed, which provides several advanced that TypeScript can be strongly typing ensure that the error are caughtr during the development, make the code more reliable. Additionally, TypeScript is more readable and maintainanable than JavaScript, it supports abstraction through interface while JavaScript does not. Typescript also allows developers to annotate code with decorators, and support better modularization and organization through the use of namespace, which is not supported in JavaScript. Furthermore, TypeScript is more expressive syntax than JavaScript through the use of syntax elements such as optional and name parameters, which enhanced its functionality and make development more efficient.
+
+```cpp
+// TypeScript: Explicitly defining types
+function greet(name: string, age: number): string {
+  return `Hello, my name is ${name} and I am ${age} years old.`;
+}
+
+// Using the function
+const message: string = greet("Alice", 30);
+console.log(message);
+
+```
 
 TypeScript basically not competitor with JavaScript but rather complement to it. By building on JavaScript foundation, TypeScript provides the community with more dynamic, full-featured and safer way to develop enterprise-grade applications where the target runtime requires JavaScript. The goal of TypeScript is not to replace JavaScript encourage the proliferation of JavaScript-based platforms by making it easier to write, integrate, more manageable and more maintainable. 
 
