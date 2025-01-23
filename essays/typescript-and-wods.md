@@ -6,12 +6,14 @@ title: "TypeScript and WODs: A Journey in Precision and Practice"
 date: 2025-01-22
 published: true
 labels:
-  - Engineering
+  - Sofware Engineering
+  - TypeScript
+  - Learning
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+<img width="400px" class="rounded float-start pe-4" src="../img/coding.jpg">
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+* A thing that is hard to accomplish, deal with, or understand.*
 
 Unlike JavaScript that I have learned before, TypeScript is statically typed, allowing myself to define the variable types explicitly. Compared to JavaScript, TypeScript is more readable and easier to maintain than JavaScript.
 
