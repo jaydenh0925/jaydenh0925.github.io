@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/La-manson-logo.png
+image: img/the-evolution7-logo.png
 title: "The Evolution 7 Digital Creator"
 date: 2023
 published: true
@@ -13,7 +13,7 @@ labels:
 summary: "A project of create a website that I worked with my team after graduate college in Vietnam."
 ---
 
-<img class="img-fluid" src="../img/La-mansion-home-page.jpg">
+<img class="img-fluid" src="../img/the-evolution7-homepage.png">
 
 The Evolution 7 is a project that I create while learning ITS in Vietnam. The project helped me learn how to design a professional and functional the website.
 
@@ -21,10 +21,5 @@ The Evolution 7 is implemented using Adobe Photoshop, a HTML/CSS, and Javascript
 
 In this project I gained experience with full-stack web application design and associated technologies, CSS Framework for the user interface, and Javascript for both client and server-side programming. 
 
-Here is some example branding pictures use:
+Here is the website: https://theevolution7.com/index.html
 
-<img class="img-fluid" src="../img/la-manson-branding-1.jpg">
-<img class="img-fluid" src="../img/la-manson-branding-2.jpg">
-<img class="img-fluid" src="../img/la-manson-branding-3.jpg">
-<img class="img-fluid" src="../img/la-manson-branding-4.jpg">
-<img class="img-fluid" src="../img/la-manson-social-posts.jpg">
