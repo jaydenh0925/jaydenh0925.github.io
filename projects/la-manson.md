@@ -8,7 +8,7 @@ published: true
 labels:
   - Photoshop Adobe
   - HTML/CSS
-  - GitHub
+  - Javascript
 summary: "A project of branding a website that I worked with my team in hometown College."
 ---
 
