@@ -11,9 +11,9 @@ labels:
   - Learning
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/coding.jpg">
+<img width="500px" class="rounded float-start pe-4" src="../img/coding.jpg">
 
-* A thing that is hard to accomplish, deal with, or understand.*
+*A thing that is hard to accomplish, deal with, or understand.*
 
 Unlike JavaScript that I have learned before, TypeScript is statically typed, allowing myself to define the variable types explicitly. Compared to JavaScript, TypeScript is more readable and easier to maintain than JavaScript.
 
