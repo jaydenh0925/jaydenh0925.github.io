@@ -21,5 +21,5 @@ The Evolution 7 is implemented using Adobe Photoshop, a HTML/CSS, and Javascript
 
 In this project I gained experience with full-stack web application design and associated technologies, CSS Framework for the user interface, and Javascript for both client and server-side programming. 
 
-Here is the website: https://theevolution7.com/index.html
+Here is the website: <a href ="https://theevolution7.com/index.html">Visit The Website</a>
 
