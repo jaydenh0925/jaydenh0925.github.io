@@ -12,8 +12,8 @@ summary: "My team developed developed the fish game project for final using Java
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/fish-game-map.png" class="img-thumbnail" >
-  <img width="200px" height = "150.91px" src="../img/fish-game-poster.png" class="img-thumbnail" >
+  <img width="200px"  height = "150.91px" src="../img/fish-game-map.png" class="img-thumbnail" >
+  <img width="200px" src="../img/fish-game-poster.png" class="img-thumbnail" >
   <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
 </div>
 
