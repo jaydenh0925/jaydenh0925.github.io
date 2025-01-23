@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/fish-game-logo.jpg
+image: img/fish-game-logo.png
 title: "Fish Game Project"
 date: 2023
 published: true
