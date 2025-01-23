@@ -12,7 +12,7 @@ labels:
   - TypeScript
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
+<img width="100px" class="rounded float-start pe-4" src="../img/js-ts.png">
 
 In the realm of website development, JavaScript has long been recognized as a cornerstone for creating interactive and dynamic web applications. However, as the world continue to advance, the demand more robust, scalable, and maintainable codebases has increase, JavaScript while highly flexible and widely adopted has shown limitation particular in managing large-scale applications. In response to this challenges, TypeSript, the superset of JavaScript was introduced, it designed to bring the strong typing, enhanced tooling, and modern programming paradigms to JavaScript development, TypeScript addresses many of shortcoming faced by developer. 
 
