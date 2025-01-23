@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/fish-game-logo.jpg
 title: "Fish Game Project"
 date: 2023
 published: true
@@ -12,8 +12,8 @@ summary: "My team developed developed the fish game project for final using Java
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
+  <img width="200px" src="../img/fish-game-map.png" class="img-thumbnail" >
+  <img width="200px" src="../img/fish-game-poster.jpg" class="img-thumbnail" >
   <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
 </div>
 
