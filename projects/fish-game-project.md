@@ -12,9 +12,8 @@ summary: "My team developed developed the fish game project for final using Java
 ---
 
 <div class="text-center p-4">
-  <img width="200px"  height = "150.91px" src="../img/fish-game-map.png" class="img-thumbnail" >
+  <img width="200px"  height = "150px" src="../img/fish-game-map.png" class="img-thumbnail" >
   <img width="200px" src="../img/fish-game-poster.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
 </div>
 
 Fish game is a project that we assignment for our final exam. This project made by using Java. In this project, our team assigned to create a game that allow 2 players catch the fish, each player is given 3 opportunities to catch the fish using one of the 5 methods: pole, net, spear, trap, or throw net. Each species of fish has a unique method to catch that deemed to be legal. The program also allows users to check if the fishs they catched are legal or not. and allow users to keep or release if it legal. Because of this, it's very important to check the legal of the fish. The fish will keep grow bigger every month, it's advance to catch the right fish at the right time.
