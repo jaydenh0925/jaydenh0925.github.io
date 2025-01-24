@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/the-evolution7-logo-1.png
+image: img/the-evolution7-logo-1.JPG
 title: "The Evolution 7 Digital Creator"
 date: 2023
 published: true
