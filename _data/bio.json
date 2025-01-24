@@ -78,22 +78,21 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
+      "organization": "KCC STEM Robotic",
+      "website": "https://kccstem.com/computer-science/",
       "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
+      "startDate": "2023",
+      "endDate": "2024",
       "summary": "Lead developer for weather sensing project",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "answer phone and email for student to like to apply STEM"
       ]
     },
   ],
   "awards": [
     {
       "title": "Phi Theta Kappa Honor Society",
-      "date": "2013-Present",
+      "date": "2022-Present",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
