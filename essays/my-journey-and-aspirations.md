@@ -9,7 +9,7 @@ labels:
   - Software Engineering
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/software-engineer.jpg">
 
 
 Software engineering has always fascinated me because of its unique blend of creativity, problem-solving, and critical thinking. It transforms abstract ideas into functional solutions that can address real-world problems—ranging from designing user interfaces to optimizing complex algorithms. I am particularly interested in full-stack development and artificial intelligence because I believe I can contribute something innovative to the world. I enjoy breaking down big problems into smaller pieces and tackling them step by step. It’s incredibly rewarding to find solutions, whether it’s creating a personal website or developing a small app for my profile.
