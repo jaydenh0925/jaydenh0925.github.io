@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/La-manson-logo-1.png
+image: img/la-manson-logo-1.png
 title: "La-Manson Branding"
 date: 2021
 published: true
