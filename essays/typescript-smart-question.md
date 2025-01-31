@@ -11,7 +11,7 @@ labels:
   - Learning
 ---
 
-<img width="500px" class="rounded float-start pe-4" src="../img/coding.jpg">
+<img width="300px" class="rounded float-start pe-4" src="../img/SMARTGoals-Blog_Infographic.jpg">
 
 ## Asking a SMART Questions 
 <a href="https://stackoverflow.com/questions/12827266/get-and-set-in-typescript">Link to SMART Stackoverflow question</a>
