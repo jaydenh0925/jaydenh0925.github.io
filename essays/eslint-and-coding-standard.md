@@ -12,7 +12,7 @@ labels:
   - VS Code
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/js-ts.png">
+<img width="500px" class="rounded float-start pe-4" src="../img/eslint.jpeg">
 
 At first, ESLint felt like my coding teacher, always pointing out my mistakes and demanding perfection for my code even I write a simple function, and suddenly my screen was littered with red squiggles, warnings, and errors. It was overwhelming. Some of the errors seemed unnecessary and like enforcing a specific indentation style, while others were genuinely helpful, catching potential bugs I would have overlooked.
 
