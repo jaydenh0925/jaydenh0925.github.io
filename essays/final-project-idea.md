@@ -12,7 +12,7 @@ labels:
   - VS Code
 ---
 
-<h2>Overview</h2>
+<h2 style="Color:#000080">Overview</h2>
 <h3>The Problem</h3>
 Many UH Mānoa students live off-campus and rely on buses, bikes, or carpools to get to and from school. However, there's no easy way to connect students who live nearby and want to share rides or biking routes. This application leads to students either commuting alone, paying more than necessary for gas or rideshares, or simply struggling to figure out the best commuting options.
 
@@ -25,7 +25,7 @@ Mānoa Green Ride allows students to:
 - Post or join ride-share offers.
 - Mark themselves as available/unavailable for a given week.
 
-<h2>Mockup Idea</h2>
+<h2 style="Color:#000080">Mockup Idea</h2>
 - **Landing Page**: Welcome message and CTA to log in or register.
 - **Dashboard**: Personalized commute suggestions, route matches, and weekly schedule.
 - **Ride Board**: Post a ride or request a ride with options for one-time or weekly commutes.
@@ -38,7 +38,7 @@ Mānoa Green Ride allows students to:
 - Two users connect based on their information.
 - Admin goes to landing pages, log in, edit students information
 
-<h3>Beyond the basics</h3>
+<h2 style="Color:#000080">Beyond the basics</h2>
 After implementing the basic functionally, here are some ideas for more advance features.
 - Connect with Manoa's database to check if the student information is correct or not.
 - Real-time traffic and bus schedule data using public APIs.
