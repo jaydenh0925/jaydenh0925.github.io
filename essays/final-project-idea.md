@@ -32,7 +32,7 @@ Mānoa Green Ride allows students to:
 - **Profile Page**: Commute preferences, schedule, and history.
 - **Admin Tools**: Tools for managing flagged posts, inappropriate content, or account issues.
 
-<h3 style="Color: red">Use Case Idea</h3>
+<h2 style="Color:#000080">Use Case Idea</h2>
 - A student signs up, log in, enters their weekly schedule and address, and is matched with others in their neighborhood who also drive to UH Mānoa.
 - A student without a car sees the best bus routes and gets a text notification if a fellow student nearby is offering a ride.
 - Two users connect based on their information.
