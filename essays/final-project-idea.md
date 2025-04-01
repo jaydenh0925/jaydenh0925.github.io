@@ -13,10 +13,10 @@ labels:
 ---
 
 <h2 style="Color:#A47864">Overview</h2>
-<h3>The Problem</h3>
+<h4>The Problem</h4>
 Many UH Mānoa students live off-campus and rely on buses, bikes, or carpools to get to and from school. However, there's no easy way to connect students who live nearby and want to share rides or biking routes. This application leads to students either commuting alone, paying more than necessary for gas or rideshares, or simply struggling to figure out the best commuting options.
 
-<h3>The Solution</h3>
+<h4>The Solution</h4>
 Mānoa Green Ride application: a sustainable student-focused ride-share and route-sharing web app built specifically for UH Mānoa commuters.
 
 Mānoa Green Ride allows students to:
