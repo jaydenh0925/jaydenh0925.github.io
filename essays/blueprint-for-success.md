@@ -1,4 +1,4 @@
-<img />
+
 Blueprints for Success: How Design Patterns Shape Our Code
 Imagine you are an architect standing before a blank plot of land. You could design a house from scratch—agonizing over where to place each door, how the pipes should flow, how to brace the ceiling—but you don't. Instead, you start with a trusted blueprint, one that’s been refined over decades of building safe, beautiful homes. You might modify it, improve it, or combine it with others, but you don’t reinvent the idea of a hallway or the concept of a kitchen. In software development, design patterns are our blueprints.
 
