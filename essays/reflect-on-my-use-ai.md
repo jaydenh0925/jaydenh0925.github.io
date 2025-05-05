@@ -13,52 +13,52 @@ labels:
 <img width="500px" class="rounded float-start pe-4" src="../img/eslint.jpeg">
 
 <strong>I. Introduction</strong>
-Artificial Intelligence (AI) has rapidly become a transformative force in education, especially in technical fields like Software Engineering. Its ability to assist, automate, and analyze has opened new doors for students to enhance their learning. In ICS 314, AI tools such as ChatGPT, GitHub Copilot, and Google Bard played a significant role in how I approached problem-solving, coding, and understanding complex software engineering concepts. These tools were instrumental in both developing and debugging code, generating examples, and guiding my documentation and learning processes.
+Artificial Intelligence (AI) has become a powerful tool in education, especially in software engineering, where problem-solving, coding, and conceptual understanding are core. In ICS 314, I explored multiple AI tools such as ChatGPT, GitHub Copilot, and Google Bard. These tools aided me in understanding course content, generating code, debugging, and even learning abstract concepts. My interaction with AI spanned across many areas of the course, offering both support and challenge as I navigated the material.
 
 <strong>II. Personal Experience with AI</strong>
 
-Experience WODs (e.g. E18): For E18, I used ChatGPT to get a clearer understanding of functional programming concepts. My prompt was: "Explain how to use Underscore.js map and reduce in JavaScript." ChatGPT gave concise and usable examples that helped reinforce my understanding before attempting the WOD.
+Experience WODs (e.g. E18): I used ChatGPT to reinforce functional programming knowledge. For the Functional Programming WOD, I prompted: “Write a function using underscore to implement the following instructions .” The result helped me identify the correct use of .map() and .reduce() but required edits to suit the specific requirements.
 
-In-class Practice WODs: I avoided AI here to simulate real exam-like environments. I found it important to practice independently without reliance on external help.
+In-class Practice WODs: I did not use AI here because I wanted to simulate a real test environment. Practicing independently helped me solidify concepts without relying on external input.
 
-In-class WODs: Similar to Practice WODs, I chose not to use AI during timed WODs to ensure that I developed the muscle memory for solving problems quickly on my own. I used it to double check the code that and find the error that might appear on my code.
+In-class WODs: Similar to the Practice WODs, I avoided AI to challenge myself to perform under time constraints. This built my confidence and speed in solving problems manually.
 
-Essays: For my essays, I asked ChatGPT to help brainstorm outline structures and used it to refine my grammar. For example, I asked, "Give me a clear outline for discussing the role of coding standards in group projects." While the ideas were helpful, I rewrote most parts in my own voice.
+Essays: I asked ChatGPT to help brainstorm outlines and critique drafts. For instance, I used the prompt: “Help me structure an essay on why coding standards are critical in team software projects.” It provided solid scaffolding, although I rewrote the entire essay in my own words.
 
-Final Project: Copilot was helpful in generating boilerplate code for the Meteor app, particularly for MongoDB schemas and form validation logic. ChatGPT was helpful for syntax-specific questions, such as “How do I validate a form using Uniforms in Meteor?” It saved time, though occasionally gave deprecated or incompatible answers.
+Final Project: AI tools were essential here. GitHub Copilot helped autogenerate code snippets, especially boilerplate Meteor code and schema validations. ChatGPT was handy for fixing bugs. When stuck, I asked, “Why is my Uniforms form not submitting in Meteor?” It guided me through troubleshooting steps, though I still needed to cross-reference documentation.
 
-Learning a concept / tutorial: When learning about React-Meteor integration, I asked Bard to explain the difference between reactive data sources and useTracker. This helped clarify the conceptual difference more quickly than reading documentation alone.
+Learning a concept / tutorial: I used Bard to clarify the difference between reactive data sources and useTracker in Meteor. Bard's ability to summarize documentation helped me absorb information more efficiently than skimming through long guides.
 
-Answering a question in class or in Discord: I did not use AI during class discussions but occasionally asked ChatGPT after class to clarify someone else's question that I didn’t fully understand at the time.
+Answering a question in class or in Discord: After class, I used ChatGPT to revisit unanswered class questions. For example, someone asked about race conditions in Meteor, and I prompted ChatGPT: “Explain race conditions in Meteor in simple terms.” It helped me understand the issue well enough to follow up in Discord.
 
-Asking or answering a smart-question: Before asking a smart-question in Discord, I often used ChatGPT to verify if the question made sense. One example was, “How do I debug an issue where Meteor isn’t rendering my React component after a route change?”
+Asking or answering a smart-question: Before posting in Discord, I validated my thoughts with ChatGPT. One case: I wanted to ask why my React component didn’t render after navigating routes. I asked ChatGPT: “Why would Meteor with React not rerender on route change?” The answer gave me confidence to post a refined question.
 
-Coding example (e.g., Underscore .pluck): I used ChatGPT to generate small examples, such as "Give an example using _.pluck to extract names from a user array." This was a helpful way to test methods quickly.
+Coding example (e.g., Underscore .pluck):  prompted ChatGPT: “Give a coding example using _.pluck on an array of users.” It instantly returned working code, which I then modified. This helped me quickly understand method functionality.
 
-Explaining code: I used ChatGPT to help explain some third-party package code to myself. My prompt was: “Explain what this Meteor.subscribe call is doing in simple terms.” It was helpful for breaking down unfamiliar syntax.
+Explaining code: When encountering complex code like nested Meteor publications, I used the prompt: “Explain this Meteor.subscribe and publish function block.” ChatGPT simplified the logic, helping me understand execution flow.
 
-Writing code: Copilot was most helpful here. It often auto-completed repetitive code, such as defining new routes or templates. However, it occasionally introduced subtle bugs.
+Writing code: Copilot significantly helped with repetitive tasks, like writing route logic or generating form templates. However, it sometimes made incorrect assumptions or produced obsolete Meteor syntax, which I had to correct.
 
-Documenting code: I used ChatGPT to generate JSDoc comments for functions. My prompt: “Write a JSDoc comment for a function that filters users by role.” It saved time, but I reviewed every output for accuracy.
+Documenting code: I used ChatGPT to help generate JSDoc comments. For instance, I prompted: “Write JSDoc for a function that filters users by roles in Meteor.” It gave well-structured comments that I reviewed and edited.
 
-Quality assurance (e.g., ESLint errors): When I encountered ESLint issues I didn’t understand, I copied the error message into ChatGPT and asked, “How do I fix this ESLint error in a Meteor React project?” The response usually pointed me in the right direction.
+Quality assurance (e.g., ESLint errors): I copied error messages into ChatGPT with prompts like, “Fix this ESLint error in Meteor React.” It provided helpful solutions most of the time, although some suggestions conflicted with the course’s ESLint config.
 
-Other uses in ICS 314 not listed: I also used ChatGPT to create test cases for form inputs and simulate user flows for the final project.
+Other uses in ICS 314 not listed: I used ChatGPT to create dummy test data for forms, generate regex validations, and even simulate user input workflows for edge case testing.
 
 <strong>III. Impact on Learning and Understanding</strong>
-Using AI enhanced my learning by speeding up access to relevant explanations, offering examples, and demystifying complex concepts. However, it also posed a risk of surface-level understanding if I relied on it too much. I learned to treat AI as a guide, not a crutch, and always validated the responses.
+AI tools significantly accelerated my learning. They broke down complex topics into digestible parts, offered quick answers, and gave me a springboard for deeper research. However, I noticed that over-relying on them could hinder deep understanding. The key was balancing AI suggestions with my own comprehension and validation.
 
 <strong>IV. Practical Applications</strong>
-Outside ICS 314, I used AI to prototype small web applications and scripts for my part-time job. For example, ChatGPT helped generate a quick Node.js server to test API endpoints. This showed me how AI can accelerate real-world development.
+Outside ICS 314, I used ChatGPT to help prototype a Firebase-based student portal app for a side project. It sped up development by suggesting structure and debugging server-side functions. In HACC, I used Copilot during a hackathon for rapid iteration. These experiences showed me how AI could speed up real-world development while requiring careful review.
 
 <strong>V. Challenges and Opportunities</strong>
-A key challenge was verifying the correctness of AI output. Sometimes ChatGPT gave outdated or incorrect information, particularly for Meteor-specific questions. But it also presented opportunities—like using Copilot to learn by observing what it suggests.
+The primary challenge with AI was trusting the output. Especially in Meteor, outdated practices sometimes surfaced. Still, AI offered opportunities to learn by example, gain quick feedback, and brainstorm solutions. The more specific my prompts, the better the results.
 
 <strong>VI. Comparative Analysis</strong>
-Compared to traditional learning (lectures, textbooks), AI-enhanced learning was more interactive and on-demand. It allowed me to explore tangents and clarify doubts immediately. However, traditional methods ensured deeper, more structured understanding.
+Traditional methods like lectures and textbooks offer deeper structure and verified accuracy, while AI provides speed and flexibility. With AI, I could explore tangents and receive instant clarification, which made learning more engaging. However, I still relied on traditional learning to ensure foundational understanding.
 
 <strong>VII. Future Considerations</strong>
-AI will likely become a core component of software engineering education. Its ability to provide instant feedback and adapt to student needs is invaluable. However, educators should also teach students how to critically assess AI responses.
+AI will become increasingly important in software education. I foresee AI being integrated into coding environments for personalized debugging, feedback, and testing. However, students need to learn how to critically evaluate AI outputs. Future coursework should include AI literacy and ethics.
 
 <strong>VIII. Conclusion</strong>
-AI was a valuable companion throughout ICS 314. From debugging to documentation, it made my learning process faster and more dynamic. Moving forward, I recommend integrating AI literacy into coursework—teaching students not just how to use AI, but how to use it well.
+AI greatly influenced my journey through ICS 314. It served as a tutor, debugger, writing assistant, and coding partner. While not a substitute for understanding, it was an invaluable resource. For future integration, I suggest combining AI tools with peer collaboration and instructor guidance to strike the right balance between efficiency and comprehension.
