@@ -21,7 +21,7 @@ Experience WODs (e.g. E18): For E18, I used ChatGPT to get a clearer understandi
 
 In-class Practice WODs: I avoided AI here to simulate real exam-like environments. I found it important to practice independently without reliance on external help.
 
-In-class WODs: Similar to Practice WODs, I chose not to use AI during timed WODs to ensure that I developed the muscle memory for solving problems quickly on my own.
+In-class WODs: Similar to Practice WODs, I chose not to use AI during timed WODs to ensure that I developed the muscle memory for solving problems quickly on my own. I used it to double check the code that and find the error that might appear on my code.
 
 Essays: For my essays, I asked ChatGPT to help brainstorm outline structures and used it to refine my grammar. For example, I asked, "Give me a clear outline for discussing the role of coding standards in group projects." While the ideas were helpful, I rewrote most parts in my own voice.
 
