@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Beyond Code: Applying Software Engineering Principles to Real-World Problem Solving"
+title: "Measuring the Invisible: Lessons from Effort Estimation and Tracking in Software Projects"
 # All dates must be YYYY-MM-DD format!
 date: 2025-5-11
 published: true
