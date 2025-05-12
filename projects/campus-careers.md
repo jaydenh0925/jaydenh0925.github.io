@@ -11,7 +11,7 @@ labels:
 
 <h1>Campus Careers Overview</h1>
 
-<img class="img-fluid" src="../img/">
+<img class="img-fluid" src="../img/homepage.">
 
 <h3>Overview</h3>
 Our team shared the issue that friendships tended to be concentrated within one’s own academic department. The root cause of this was that most opportunities to interact at school came through classes, and even extracurricular events were typically related to the student’s department. So, the solution we aimed for was to create a “space” where people could engage with a broader range of individuals. The <b>Campus Careers</b> project was launched to enable the formation of cross-departmental friendships through a chat application featuring high-randomness matching.
