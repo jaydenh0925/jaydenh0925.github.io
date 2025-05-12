@@ -10,7 +10,7 @@ labels:
   - Learning
 ---
 
-<img width="500px" class="rounded float-start pe-4" src="../img/eslint.jpeg">
+<img width="500px" class="rounded float-start pe-4" src="../img/brainstorm.jpg">
 
 Effort estimation and tracking are critical components of any software development process, even if the results are often far from perfect. In my recent software engineering project, I experienced firsthand how challenging accurate effort estimation can be, but also how valuable the practice is, even when the numbers don’t always match reality.
 
