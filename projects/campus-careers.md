@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/the-evolution7-logo-1.PNG
+image: img/homepage.png
 title: "Campus Careers"
 date: 2025
 published: true
