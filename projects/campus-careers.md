@@ -11,7 +11,7 @@ labels:
 
 <h1>Campus Careers Overview</h1>
 
-<img class="img-fluid" src="../img/homepage.">
+<img class="img-fluid" src="../img/homepage.png">
 
 <h3>Overview</h3>
 Our team shared the issue that friendships tended to be concentrated within one’s own academic department. The root cause of this was that most opportunities to interact at school came through classes, and even extracurricular events were typically related to the student’s department. So, the solution we aimed for was to create a “space” where people could engage with a broader range of individuals. The <b>Campus Careers</b> project was launched to enable the formation of cross-departmental friendships through a chat application featuring high-randomness matching.
@@ -31,6 +31,11 @@ I was in charge of the filter browsing skill/location page and admin dashboard p
 <h3>Community Feedback</h3>
 
 Allowing admin to edit user's profile and matching the companies with their preference of skill and location.
+
+<h3>Screenshot</h3>
+
+<img class="img-fluid" src="../img/brainstorm.jpg">
+<img class="img-fluid" src="../img/browse-skills.png">
 
 <h3>Developers</h3>
 
