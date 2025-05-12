@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/homepage.png
+image: ../img/homepage.png
 title: "Campus Careers"
 date: 2025
 published: true
