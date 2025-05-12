@@ -34,7 +34,7 @@ Allowing admin to edit user's profile and matching the companies with their pref
 
 <h3>Screenshot</h3>
 
-<img class="img-fluid" src="../img/brainstorm.jpg">
+<img class="img-fluid" src="../img/admin-portal.png">
 <img class="img-fluid" src="../img/browse-skills.png">
 
 <h3>Developers</h3>
