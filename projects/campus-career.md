@@ -1,34 +1,50 @@
 ---
 layout: project
 type: project
-image: img/fish-game-logo-1.png
-title: "Fish Game Project"
-date: 2023
+image: img/homepage.png
+title: "Campus Careers"
+date: 2025
 published: true
 labels:
-  - Java
+  - TypeSCript
+  - NextJS
+  - Develop
 
-summary: "My team developed developed the fish game project for final using Java."
+summary: "My team developed developed the campus career."
 ---
 
-<div class="text-center p-4">
-  <img width="200px"  height = "150.91px" src="../img/fish-game-map.png" class="img-thumbnail" >
-  <img width="200px" src="../img/fish-game-poster.png" class="img-thumbnail" >
-</div>
+<h1>Campus Careers Overview</h1>
 
-Fish game is a project that we assignment for our final exam. This project made by using Java. In this project, our team assigned to create a game that allow 2 players catch the fish, each player is given 3 opportunities to catch the fish using one of the 5 methods: pole, net, spear, trap, or throw net. Each species of fish has a unique method to catch that deemed to be legal. The program also allows users to check if the fishs they catched are legal or not. and allow users to keep or release if it legal. Because of this, it's very important to check the legal of the fish. The fish will keep grow bigger every month, it's advance to catch the right fish at the right time.
+<img class="img-fluid" src="../img/homepage.png">
 
-For this project, I was the team member who was responsible for programming GUI and servaral function of catching method.  I started by programming the basics, such as asking user to choose their method and if user catch the fish successful, the program will ask them check the rulebook to see if it's legal or not, then it's user turn to decide to keep or release the fish.  From there, I will match the code with my team member to determine the winner from there. 
+<h3>Overview</h3>
+Our team shared the issue that friendships tended to be concentrated within one’s own academic department. The root cause of this was that most opportunities to interact at school came through classes, and even extracurricular events were typically related to the student’s department. So, the solution we aimed for was to create a “space” where people could engage with a broader range of individuals. The <b>Campus Careers</b> project was launched to enable the formation of cross-departmental friendships through a chat application featuring high-randomness matching.
 
-Here is some code that illustrates how we read values from the line sensors:
+<h3>Features</h3>
+Campus Careers includes the following features:
+- Homepage
+- Profile editing page
+- Admin Dashboard page
+- Filter skill or location page
+- Matching skill and location page
+URL: https://campus-careers-app.vercel.app/
 
-```cpp
-public MoiMana() {
-      super("Moi Mana", MOIMANAMAXLENGTH, MOIMANAMINLENGTH, 
-         MOIMANAMINLENGTH, (MOIMANAMINLENGTH * 2), DIET_ITEMS,  "silver", 
-         "silver with black tips", "male"); 
-      //method is in superclass but will use max, min length set above
-      this.initLength();  
-   }
+<h3>My Role</h3>
+I was in charge of the filter browsing skill/location page and admin dashboard page. By using Nextjs and Typescript functions, I implemented the admin dashboard page. I was also involved in UI development. I implemented the database and deploy vercel. To do this, I also developed the necessary APIs and designed the database, fundmentally improving the system.
 
-```
+<h3>Community Feedback</h3>
+
+Allowing admin to edit user's profile and matching the companies with their preference of skill and location.
+
+<h3>Screenshot</h3>
+
+<img class="img-fluid" src="../img/admin-portal.png">
+<img class="img-fluid" src="../img/browse-skills.png">
+
+<h3>Developers</h3>
+
+Jayden
+Alexander
+Pheobe
+Kristian Soares
+Mason
