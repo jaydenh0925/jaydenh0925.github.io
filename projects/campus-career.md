@@ -10,7 +10,7 @@ labels:
   - NextJS
   - Develop
 
-summary: "My team developed developed the campus career."
+summary: "Campus Careers is a web application designed to help students at the University of Hawaii find internship and job opportunities. Developed using modern web technologies, it features user authentication, job listings, and automated testing."
 ---
 
 <h1>Campus Careers Overview</h1>
