@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Jayden Huynh",
-    "label": "Student",
+    "label": "Computer Science Junior | Aspiring Software Engineer",
     "picture": "https://github.com/jaydenh0925.png",
     "email": "jayden.huynh2509@gmail.com",
     "phone": "808-451-6697",
@@ -14,9 +14,10 @@
   },
   "interests": [
     { "name": "Software Engineering" },
-    { "name": "Website Development" },
-    { "name": "Mathematic" },
-    { "name": "Artificial Intelligence" }
+    { "name": "Web Development" },
+    { "name": "Mathematics" },
+    { "name": "AI" },
+    
   ],
   "skills": [
     {
